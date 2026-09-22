@@ -1,0 +1,6 @@
+{
+  "name": "Gamblang",
+  "description": "Aplikasi pembaca digital kontemplatif untuk blog Gamblang dengan tema naskah manuskrip dan hikmah",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
